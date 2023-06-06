@@ -821,7 +821,7 @@ body.dark .song:hover .option{
   .row{
     padding: 40px 25px;
     height: auto;
-    margin: 0 20px;
+    margin: 0 20px !important;
   }
   .slide{
     width: 100%;
