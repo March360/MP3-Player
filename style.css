@@ -822,10 +822,6 @@ body.dark .song:hover .option{
     padding: 40px 25px;
     height: auto;
     margin: 0 20px;
-  }.row.dark{
-    padding: 40px 25px;
-    height: auto;
-    margin: 0 20px;
   }
   .slide{
     width: 100%;
@@ -873,6 +869,7 @@ body.dark .song:hover .option{
   body.dark .row{
     padding: 40px 25px;
     height: auto;
+    margin: 0 20px;
   } body.dark .slide{
     width: 100%;
   }
