@@ -821,7 +821,13 @@ body.dark .song:hover .option{
   .row{
     padding: 40px 25px;
     height: auto;
-  }.slide{
+    margin: 0 20px;
+  }.row.dark{
+    padding: 40px 25px;
+    height: auto;
+    margin: 0 20px;
+  }
+  .slide{
     width: 100%;
   }
   .slide h2{
